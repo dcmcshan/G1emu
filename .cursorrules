@@ -1,0 +1,15 @@
+{
+  "project": {
+    "name": "G1emu",
+    "description": "A project to emulate the Unitree G1 robot, primarily working with the unitree_mujoco repository.",
+    "repository": "https://github.com/unitreerobotics/unitree_mujoco"
+  },
+  "context": {
+    "purpose": "To create a simulation environment for the Unitree G1 robot using the unitree_mujoco framework",
+    "goals": [
+      "Emulate the Unitree G1 robot",
+      "Interface with the unitree_mujoco simulation framework",
+      "Enable testing and development of robot control algorithms in simulation"
+    ]
+  }
+} 
