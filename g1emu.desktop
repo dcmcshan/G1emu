@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=G1 Emulator
+Comment=Unitree G1 Robot Simulator
+Exec=/home/parallels/GitHub/G1emu/launch_g1emu.sh
+Icon=/home/parallels/GitHub/G1emu/unitree_mujoco/simulate/assets/g1_icon.svg
+Terminal=true
+Categories=Development;Simulation; 
